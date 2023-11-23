@@ -9,9 +9,6 @@ EditorBuildSettings:
     path: Assets/MainMenu.unity
     guid: 5cbc63de0e5c241f68425b281181f509
   - enabled: 1
-    path: Assets/_Labs/01-Probuilder/01-Probuilder 2.unity
-    guid: 1cf9bb62474c84a0e87cdaff8cb74df7
-  - enabled: 1
     path: Assets/_Labs/02-SNAPS/02-SNAPS.unity
     guid: c49e59542282f496181b161b92921a27
   - enabled: 1
@@ -29,4 +26,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_Labs/07-Prototype4/07-Prototype4.unity
     guid: a0d2a73e11b0743f4abfb05dbe92329b
+  - enabled: 1
+    path: Assets/_Labs/01-Probuilder/01-Probuilder.unity
+    guid: 6ae9427a4259c6a40b11609bd1583124
   m_configObjects: {}
